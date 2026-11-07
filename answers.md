@@ -24,3 +24,31 @@ Origin is the default name Git gives to the remote repository from which the pro
 
 There are two complete copies of my project history. One is stored locally on my computer, and the other is stored online on GitHub. Both contain the commits and project history that have been pushed.
 
+
+
+
+
+
+
+\*\*1. Who reads a README, and what questions should it answer?\*\*
+
+
+
+Developers, users and contributors read a README. It should explain what the project does, what files it contains, how to install or run it, and how people can use it.
+
+
+
+\*\*2. What can other people legally do with your code if there is no license?\*\*
+
+
+
+Without a license, other people generally cannot legally copy, modify, distribute or use my code beyond what copyright law allows. They must ask the copyright owner for permission.
+
+
+
+\*\*3. Which license did you choose, and why, in one sentence?\*\*
+
+
+
+I chose the MIT License because it is simple and allows other people to use, modify and distribute my code with few restrictions.
+
