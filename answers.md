@@ -52,3 +52,23 @@ Without a license, other people generally cannot legally copy, modify, distribut
 
 I chose the MIT License because it is simple and allows other people to use, modify and distribute my code with few restrictions.
 
+
+
+\# Pull Requests and Git Fetch/Pull
+
+
+
+\*\*1. What is a pull request, and why do teams use them instead of pushing directly to main?\*\*
+
+
+
+A pull request is a request to merge changes from one branch into another branch. Teams use pull requests because they allow other developers to review the code, suggest improvements and find mistakes before changes are added to the main branch.
+
+
+
+\*\*2. What did git pull do in step 5? How is it different from git fetch?\*\*
+
+
+
+Git pull downloads changes from the remote repository and integrates them into my current local branch. Git fetch only downloads the changes and updates the remote-tracking branches without automatically merging them into my current branch.
+
