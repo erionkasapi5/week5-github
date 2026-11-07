@@ -1,0 +1,4 @@
+Week 5 GitHub Project
+
+This repository contains my programming exercises.
+I created it to practice Git commits and GitHub.
