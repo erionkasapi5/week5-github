@@ -57,4 +57,18 @@ hello.exe
 
 
 \[Visit my GitHub repository](https://github.com/erionkasapi5/week5-github)
+## Usage
 
+To compile the C program, open a terminal in the repository folder and run:
+
+```cmd
+gcc hello.c -o hello.exe
+```
+
+To run the program, use:
+
+```cmd
+hello.exe
+```
+
+The program asks for your name and displays a welcome message.
