@@ -72,3 +72,10 @@ A pull request is a request to merge changes from one branch into another branch
 
 Git pull downloads changes from the remote repository and integrates them into my current local branch. Git fetch only downloads the changes and updates the remote-tracking branches without automatically merging them into my current branch.
 
+
+
+
+
+Task 4
+Need a partner
+
